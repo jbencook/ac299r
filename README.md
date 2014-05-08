@@ -1,4 +1,4 @@
-ac299r
-======
+am207
+=====
 
-AC 299r: Predictive models of crop yield in the corn belt
+AM207 Final Project: An importance sampling procedure for estimating crop yield
